@@ -1,3 +1,8 @@
+# Equinoxs Note
+I forked this repo to include the latest change in the Toulouse's academy ENT login method which involves EduConnect.
+I used this unmaintained library and not pronotepy because my Telegram Bot will run on CloudFlare Workers which only support JS/TS.
+
+
 # Pronote API - LISEZ MOI ABSOLUMENT
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Litarvan/pronote-api/Node.js%20linting%20and%20testing/master?label=tests&logo=github&style=flat-square)
