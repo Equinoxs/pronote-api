@@ -6,7 +6,7 @@ const CAS = [
     'ac-besancon', 'ac-bordeaux', 'ac-bordeaux2', 'ac-caen', 'ac-clermont', 'ac-dijon',
     'ac-grenoble', 'ac-lille', 'ac-limoges', 'ac-lyon', 'ac-montpellier',
     'ac-nancy-metz', 'ac-nantes', 'ac-orleans-tours', 'ac-poitiers',
-    'ac-reims', 'ac-rouen', 'ac-strasbourg', 'ac-toulouse',
+    'ac-reims', 'ac-rouen', 'ac-strasbourg', 'ac-toulouse', 'ac-toulouse-edu'
 
     'agora06', 'arsene76', 'atrium-sud',
 
